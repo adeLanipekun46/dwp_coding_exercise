@@ -1,4 +1,4 @@
-# Jest Test Setup This project uses **Jest** for testing. #  
+# This project uses **Jest** for testing. #  
 
 Install dependencies: 
 `npm install`
